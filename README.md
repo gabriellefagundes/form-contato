@@ -10,7 +10,7 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 * Houve alguma dúvida usando o site? Utilizde o nosso Espaço para Contato para tirar sua dúvida.
 
 ## Documentação do index.html 
-* form:
+* form: O elemento HTML < form > representa uma seção de documento que contém controles interativos para enviar informações.
 * label:
 * for:
 * input:
