@@ -14,7 +14,7 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 * label: O elemento HTML < label > representa uma legenda para um item em uma interface do usuário. Ele pode estar associado com um elemento de controle, colocando este dentro do elemento label, ou usando o atributo for. Tal controle é chamado de Controle etiquetado ou Elemento etiqueta.
 * for:  É o atributo de entrada para qual o < label > se destina. Seu valor deve ser igual ao valor do atributo id do elemento controle de entrada (< input >).
 * input: O elemento HTML < input > é usado para criar controles interativos para formulários baseados na web para aceitar dados do usuário. O elemento é um dos mais poderosos e complexos de todo HTML devido ao grande número de combinações de tipos de entrada e atributos.
-* type:
+* type:  o < type > é usado para especificar o tipo de conteúdo que essa tag link está importando, o valor do atributo deve ser um MIME type como "text/html", "text/css" e assim por diante.
 * name:
 * span:
 * id:
