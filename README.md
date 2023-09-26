@@ -6,7 +6,7 @@ Nesse projeto, criamos um index sobre Formulário de Contato na matéria de:
 
 ## 📋 Sobre o projeto
 Projeto criado de exemplo para termos uma noção de como criarmos um espaço para contato em sites.
-### Por exemplo
+### Exemplo
 * Houve alguma dúvida usando o site? Utilizde o nosso Espaço para Contato para tirar sua dúvida.
 
 ## Documentação do index.html 
