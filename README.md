@@ -11,7 +11,7 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 
 ## Documentação do index.html 
 * form: O elemento HTML < form > representa uma seção de documento que contém controles interativos para enviar informações.
-* label:
+* label: O elemento HTML < label > representa uma legenda para um item em uma interface do usuário. Ele pode estar associado com um elemento de controle, colocando este dentro do elemento label, ou usando o atributo for. Tal controle é chamado de Controle etiquetado ou Elemento etiqueta.
 * for:
 * input:
 * type:
