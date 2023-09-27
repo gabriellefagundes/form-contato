@@ -1,4 +1,4 @@
-input[type=email], select
+input[type=nome], select
 {
   width: 50%;
   padding: 12px 20px;
@@ -9,6 +9,16 @@ input[type=email], select
   box-sizing: border-box;
 }
 input[type=text], select
+{
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  }
+  label[for=content], select
 {
   width: 50%;
   padding: 12px 20px;
