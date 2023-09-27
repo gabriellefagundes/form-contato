@@ -18,7 +18,7 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 * name: O name é um atributo muito importante para os campos do tipo input. Ele serve para identificar o valor daquela variável no nosso backend(código que conecta a internet com o banco de dados, gerencia as conexões dos usuários e alimenta a aplicação web.)
 * span: O elemento HTML é um contêiner embutido para expressar conteúdo, que não representa nada inerentemente. Ele pode ser usado para agrupar elementos para fins de estilo ou porque eles compartilham valores de atributos. Deve ser usado somente quando nenhum outro elemento semântico for apropriado. É muito parecido com um elemento, mas é um elemento de nível de bloco.
 * id: O atributo id especifica uma identificação única para o elemento HTML. Por questões de boas práticas, não deve ser reutilizado e nem conter espaços em seu nome, pois o navegador irá identificar o espaço como parte dele, já que os elementos não podem ter mais de um id.
-* textarea: O elemento HTML < textarea > representa um controle de edição de texto simples de múltiplas linhas, útil quando você deseja permitir que os usuários insiram uma quantidade considerável de texto de formato livre, por exemplo, um comentário 
+* textarea: O elemento HTML < textarea > representa um controle de edição de texto simples de múltiplas linhas, útil quando você deseja permitir que os usuários insiram uma quantidade considerável de texto de formato livre, por exemplo, um comentário em um formulário de revisão ou feedback.
 * button:
 
 ## Documentação do formulario.css
