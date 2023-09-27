@@ -19,7 +19,7 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 * span: O elemento HTML é um contêiner embutido para expressar conteúdo, que não representa nada inerentemente. Ele pode ser usado para agrupar elementos para fins de estilo ou porque eles compartilham valores de atributos. Deve ser usado somente quando nenhum outro elemento semântico for apropriado. É muito parecido com um elemento, mas é um elemento de nível de bloco.
 * id: O atributo id especifica uma identificação única para o elemento HTML. Por questões de boas práticas, não deve ser reutilizado e nem conter espaços em seu nome, pois o navegador irá identificar o espaço como parte dele, já que os elementos não podem ter mais de um id.
 * textarea: O elemento HTML < textarea > representa um controle de edição de texto simples de múltiplas linhas, útil quando você deseja permitir que os usuários insiram uma quantidade considerável de texto de formato livre, por exemplo, um comentário em um formulário de revisão ou feedback.
-* button:
+* button: O elemento HTML é um elemento interativo ativado por um usuário com mouse, teclado, dedo, comando de voz ou outra tecnologia assistiva. Uma vez ativado, ele executa uma ação, como enviar um formulário ou abrir uma caixa de diálogo.
 
 ## Documentação do formulario.css
 * 
