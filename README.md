@@ -22,7 +22,17 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 * button: O elemento HTML é um elemento interativo ativado por um usuário com mouse, teclado, dedo, comando de voz ou outra tecnologia assistiva. Uma vez ativado, ele executa uma ação, como enviar um formulário ou abrir uma caixa de diálogo.
 
 ## Documentação do formulario.css
-* 
+* width:
+* padding:
+* margin: 
+* display:
+* border:
+* border-radius:
+* box-sizing:
+* background-color:
+* color:
+* cursor:
+
 
 ## Técnicas e Tecnologias utilizadas
 * Visual Studio Code 
