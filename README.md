@@ -42,7 +42,7 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 * CSS3
 
 ## Autores
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
+| [<img loading="eu.jpeg" src="eu.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
 | :---: |
 
 ## 🚧 Fontes utilizadas
