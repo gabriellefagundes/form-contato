@@ -45,6 +45,6 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)- The Form Element.
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)- Como Escrever um README Incrível no seu GitHub.
 
-## Autores
+##✍🏻Autores
 | [<img loading="eu.jpeg" src="eu.jpeg" width=115><br><sub>Larissa Gabrielle Fagundes Andrade.</sub>](https://github.com/gabriellefagundes) |
 | :---: |
