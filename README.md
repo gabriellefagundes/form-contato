@@ -28,8 +28,8 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 * display:A propriedade display CSS define se um elemento que é tratado como um bloco ou elemento inline e o layout usado. Formalmente, a propriedade display define os tipos de exibição internos e externos de um elemento. O tipo externo define a participação de um elemento no layout de fluxo; o tipo interno define o layout. Alguns valores de display são totalmente definidos em suas próprias especificações individuais.
 * border: A border é especialmente útil quando você deseja que todas as quatro bordas sejam iguais. Para torná-las diferentes entre si, no entanto, você pode usar as propriedades longhand border-width, border-stylee border-color, que aceitam valores diferentes para cada lado.
 * border-radius: A propriedade CSS arredonda os cantos da borda externa de um elemento. Você pode definir um único raio para criar cantos circulares ou dois raios para criar cantos elípticos.
-* box-sizing: 
-* background-color:
+* box-sizing: A propriedade CSS define como a largura e altura totais de um elemento são calculadas. A box-sizing pode ser usada para ajustar os seguintes comportamentos: content-box e border-box.
+* background-color: 
 * color:
 * cursor:
 
