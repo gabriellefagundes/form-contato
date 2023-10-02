@@ -26,7 +26,7 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 * padding:A propriedade CSS padding define a área de preenchimento em todos os quatro lados de um elemento de uma só vez.
 * margin: A propriedade margin do CSS define a área de margem nos quatro lados do elemento. É uma abreviação que define todas as margens individuais de uma só vez: margin-top, margin-right, margin-bottom, e margin-left.
 * display:A propriedade display CSS define se um elemento que é tratado como um bloco ou elemento inline e o layout usado. Formalmente, a propriedade display define os tipos de exibição internos e externos de um elemento. O tipo externo define a participação de um elemento no layout de fluxo; o tipo interno define o layout. Alguns valores de display são totalmente definidos em suas próprias especificações individuais.
-* border:
+* border: A border é especialmente útil quando você deseja que todas as quatro bordas sejam iguais. Para torná-las diferentes entre si, no entanto, você pode usar as propriedades longhand border-width, border-stylee border-color, que aceitam valores diferentes para cada lado.
 * border-radius:
 * box-sizing:
 * background-color:
