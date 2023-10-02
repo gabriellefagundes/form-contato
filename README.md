@@ -29,8 +29,8 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 * border: A border é especialmente útil quando você deseja que todas as quatro bordas sejam iguais. Para torná-las diferentes entre si, no entanto, você pode usar as propriedades longhand border-width, border-stylee border-color, que aceitam valores diferentes para cada lado.
 * border-radius: A propriedade CSS arredonda os cantos da borda externa de um elemento. Você pode definir um único raio para criar cantos circulares ou dois raios para criar cantos elípticos.
 * box-sizing: A propriedade CSS define como a largura e altura totais de um elemento são calculadas. A box-sizing pode ser usada para ajustar os seguintes comportamentos: content-box e border-box.
-* background-color: 
-* color:
+* background-color:  background-colorpropriedade define a cor de fundo de um elemento. O plano de fundo de um elemento é o tamanho total do elemento, incluindo preenchimento e borda (mas não a margem).
+* color: A propriedade color do CSS define o valor da cor de um elemento com seu conteúdo em texto e suas decorações (estilos).
 * cursor:
 
 
