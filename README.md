@@ -31,8 +31,7 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 * box-sizing: A propriedade CSS define como a largura e altura totais de um elemento são calculadas. A box-sizing pode ser usada para ajustar os seguintes comportamentos: content-box e border-box.
 * background-color:  background-colorpropriedade define a cor de fundo de um elemento. O plano de fundo de um elemento é o tamanho total do elemento, incluindo preenchimento e borda (mas não a margem).
 * color: A propriedade color do CSS define o valor da cor de um elemento com seu conteúdo em texto e suas decorações (estilos).
-* cursor:
-
+* cursor: A propriedade CSS define o cursor do mouse, se houver, para mostrar quando o ponteiro do mouse está sobre um elemento. A configuração do cursor deve informar os usuários sobre as operações do mouse que podem ser executadas no local atual, incluindo: seleção de texto, ativação de menus de ajuda ou de contexto, cópia de conteúdo, redimensionamento de tabelas e assim por diante.
 
 ## 🔨Técnicas e Tecnologias utilizadas
 * Visual Studio Code 
