@@ -39,7 +39,7 @@ Projeto criado de exemplo para termos uma noção de como criarmos um espaço pa
 * Git Hub
 * HTML5
 * CSS3
-* Live Server (Live Server é uma extensão do Visual Studio Code que ajuda a visualizar a atividade antes de fazer o commit.)
+* Live Server (A extensão Live Server para VSCode permite criar um servidor local através do VSCode. Com ele cortamos a necessidade de sempre que fizermos uma alteração no código atualizar o navegador.)
 
 ## 🚧 Fontes utilizadas
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)- The Form Element.
