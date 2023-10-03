@@ -18,7 +18,8 @@ input[type=text], select
   border-radius: 4px;
   box-sizing: border-box;
   }
-.textarea[id=content], select
+/* .textarea[id=mensagem], select */
+textarea
 {
   width: 50%;
   padding: 12px 20px;
@@ -27,6 +28,7 @@ input[type=text], select
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
+  height: 200px;
   }
 button
 {
